@@ -29,8 +29,5 @@ This repository contains a collection of **data analysis projects** showcasing d
 - **Python (Pandas, Matplotlib, Scikit-learn)** for advanced analytics.
 - **SQL** for database queries and data extraction.
 
-## Contributing
-This repository is open for contributions! Feel free to suggest improvements, add new analyses, or refine existing dashboards.
-
 ## License
-All projects are open-source under the MIT License.
+All projects are open-source.
